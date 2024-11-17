@@ -6,18 +6,18 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 🪐 BiliUniverse
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2024-11-17 16:14:19
+#!date = 2024-11-17 16:18:09
 #!version = 0.5.3
 #!system_version = 15
 
 [Host]
-*..alibaba = server:system
-*..alipay = server:system
-*..baidu = server:system
-*..citic = server:system
-*..icbc = server:system
-*..taobao = server:system
-*..tmall = server:system
+*.alibaba = server:system
+*.alipay = server:system
+*.baidu = server:system
+*.citic = server:system
+*.icbc = server:system
+*.taobao = server:system
+*.tmall = server:system
 *.00cdn.com = server:system
 *.0123456789.com = server:system
 *.0379home.com = server:system

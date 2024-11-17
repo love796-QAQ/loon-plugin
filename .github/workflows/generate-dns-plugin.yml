@@ -41,9 +41,15 @@ jobs:
           echo "[Host]" >> "$output_file"
 
           # 从 TXT 文件提取并格式化
-          grep -E '^DOMAIN-SUFFIX|^DOMAIN' geosite-geolocation-cn.txt | \
-          sed -E 's/^DOMAIN-SUFFIX,([a-zA-Z0-9.-]+)/*.\1 = server:system/' | \
-          sed -E 's/^DOMAIN,([a-zA-Z0-9.-]+)/\1 = server:system/' >> "$output_file"
+          while IFS= read -r line; do
+            if [[ "$line" =~ ^DOMAIN-SUFFIX,([a-zA-Z0-9.-]+)$ ]]; then
+              domain_suffix="${BASH_REMATCH[1]}"
+              echo "*.$domain_suffix = server:system" >> "$output_file"
+            elif [[ "$line" =~ ^DOMAIN,([a-zA-Z0-9.-]+)$ ]]; then
+              domain="${BASH_REMATCH[1]}"
+              echo "$domain = server:system" >> "$output_file"
+            fi
+          done < geosite-geolocation-cn.txt
 
       # 提交并推送结果
       - name: Commit and Push

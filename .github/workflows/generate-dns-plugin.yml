@@ -43,16 +43,16 @@ jobs:
           # 从 TXT 文件提取并格式化
           while IFS= read -r line; do
             echo "Processing line: $line"
-            if [[ "$line" =~ ^DOMAIN-SUFFIX,([a-zA-Z0-9.-]+)$ ]]; then
+            if [[ "$line" =~ ^DOMAIN-SUFFIX,[[:space:]]*([a-zA-Z0-9.-]+)$ ]]; then
               domain_suffix="${BASH_REMATCH[1]}"
               echo "*.$domain_suffix = server:system" >> "$output_file"
               echo "Added DOMAIN-SUFFIX: *.$domain_suffix = server:system"
-            elif [[ "$line" =~ ^DOMAIN,([a-zA-Z0-9.-]+)$ ]]; then
+            elif [[ "$line" =~ ^DOMAIN,[[:space:]]*([a-zA-Z0-9.-]+)$ ]]; then
               domain="${BASH_REMATCH[1]}"
               echo "$domain = server:system" >> "$output_file"
               echo "Added DOMAIN: $domain = server:system"
             else
-              echo "Skipping unmatched line: $line"
+              echo "Skipping line: $line"
             fi
           done < geosite-geolocation-cn.txt
 

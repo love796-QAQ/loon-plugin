@@ -1,0 +1,59 @@
+name: Generate DNS Plugin from TXT
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # 每天凌晨2点运行
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出代码仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 下载 geosite-geolocation-cn.txt 文件
+      - name: Download TXT file
+        run: |
+          curl -L -o geosite-geolocation-cn.txt https://raw.githubusercontent.com/love796-QAQ/loon-geosite/rule-set/geosite-geolocation-cn.txt
+
+      # 格式化域名为 [Host] 格式
+      - name: Format domains for DNS plugin
+        run: |
+          output_file="dns.plugin"
+          # 插入文件头部
+          cat <<EOF > "$output_file"
+#!name = 📺 BiliBili: ⚙️ Enhanced
+#!desc = 哔哩哔哩：增强模式\\n中国站功能增强及UI自定义
+#!openUrl = http://boxjs.com/#/app/BiliBili.Enhanced
+#!author = VirgilClyne[https://github.com/VirgilClyne]
+#!homepage = https://Enhanced.BiliUniverse.io
+#!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
+#!tag = 🪐 BiliUniverse
+#!system = iOS,iPadOS,macOS,tvOS
+#!date = $(date '+%Y-%m-%d %H:%M:%S')
+#!version = 0.5.3
+#!system_version = 15
+
+[Host]
+EOF
+
+          # 从 TXT 文件提取并格式化
+          grep -E '^DOMAIN-SUFFIX|^DOMAIN' geosite-geolocation-cn.txt | \
+          sed -E 's/^DOMAIN-SUFFIX,([a-zA-Z0-9.-]+)/*.\1 = server:system/' | \
+          sed -E 's/^DOMAIN,([a-zA-Z0-9.-]+)/\1 = server:system/' >> "$output_file"
+
+      # 提交并推送结果
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add dns.plugin
+          git commit -m "Update DNS plugin"
+          git push
+        env:
+          GIT: ${{ secrets.GIT }}

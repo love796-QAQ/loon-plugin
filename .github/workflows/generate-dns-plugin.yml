@@ -45,7 +45,12 @@ jobs:
             echo "Processing line: $line"
             if [[ "$line" =~ ^DOMAIN-SUFFIX,[[:space:]]*([a-zA-Z0-9.-]+)$ ]]; then
               domain_suffix="${BASH_REMATCH[1]}"
-              echo "*.$domain_suffix = server:system" >> "$output_file"
+              if [[ "$domain_suffix" == .* ]]; then
+                # 如果域名已经以点开头，则直接添加*号
+                echo "*$domain_suffix = server:system" >> "$output_file"
+              else
+                echo "*.$domain_suffix = server:system" >> "$output_file"
+              fi
               echo "Added DOMAIN-SUFFIX: *.$domain_suffix = server:system"
             elif [[ "$line" =~ ^DOMAIN,[[:space:]]*([a-zA-Z0-9.-]+)$ ]]; then
               domain="${BASH_REMATCH[1]}"

@@ -21,26 +21,24 @@ jobs:
         run: |
           curl -L -o geosite-geolocation-cn.txt https://raw.githubusercontent.com/love796-QAQ/loon-geosite/rule-set/geosite-geolocation-cn.txt
 
-      # 格式化域名为 [Host] 格式
+      # 格式化域名为 DNS plugin
       - name: Format domains for DNS plugin
         run: |
           output_file="dns.plugin"
           # 插入文件头部
-          cat <<EOF > "$output_file"
-#!name = 📺 BiliBili: ⚙️ Enhanced
-#!desc = 哔哩哔哩：增强模式\\n中国站功能增强及UI自定义
-#!openUrl = http://boxjs.com/#/app/BiliBili.Enhanced
-#!author = VirgilClyne[https://github.com/VirgilClyne]
-#!homepage = https://Enhanced.BiliUniverse.io
-#!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
-#!tag = 🪐 BiliUniverse
-#!system = iOS,iPadOS,macOS,tvOS
-#!date = $(date '+%Y-%m-%d %H:%M:%S')
-#!version = 0.5.3
-#!system_version = 15
-
-[Host]
-EOF
+          echo "#!name = 📺 BiliBili: ⚙️ Enhanced" > "$output_file"
+          echo "#!desc = 哔哩哔哩：增强模式\\n中国站功能增强及UI自定义" >> "$output_file"
+          echo "#!openUrl = http://boxjs.com/#/app/BiliBili.Enhanced" >> "$output_file"
+          echo "#!author = VirgilClyne[https://github.com/VirgilClyne]" >> "$output_file"
+          echo "#!homepage = https://Enhanced.BiliUniverse.io" >> "$output_file"
+          echo "#!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png" >> "$output_file"
+          echo "#!tag = 🪐 BiliUniverse" >> "$output_file"
+          echo "#!system = iOS,iPadOS,macOS,tvOS" >> "$output_file"
+          echo "#!date = $(date '+%Y-%m-%d %H:%M:%S')" >> "$output_file"
+          echo "#!version = 0.5.3" >> "$output_file"
+          echo "#!system_version = 15" >> "$output_file"
+          echo "" >> "$output_file"
+          echo "[Host]" >> "$output_file"
 
           # 从 TXT 文件提取并格式化
           grep -E '^DOMAIN-SUFFIX|^DOMAIN' geosite-geolocation-cn.txt | \

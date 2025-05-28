@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2025-05-27 03:05:43
+#!date = 2025-05-28 03:07:37
 #!system_version = 15
 
 [Host]
@@ -1965,6 +1965,23 @@
 *.deppon.com.cn = server:https://223.5.5.5/dns-query
 *.develenv.com = server:https://223.5.5.5/dns-query
 *.devui.design = server:https://223.5.5.5/dns-query
+*.dewu-inc.com = server:https://223.5.5.5/dns-query
+*.dewu-inner.com = server:https://223.5.5.5/dns-query
+*.dewu-inner.net = server:https://223.5.5.5/dns-query
+*.dewu.co = server:https://223.5.5.5/dns-query
+*.dewu.com = server:https://223.5.5.5/dns-query
+*.dewu.net = server:https://223.5.5.5/dns-query
+*.dewuapp.cn = server:https://223.5.5.5/dns-query
+*.dewucdn.com = server:https://223.5.5.5/dns-query
+*.dewuhaowu.cn = server:https://223.5.5.5/dns-query
+*.dewuhd.cn = server:https://223.5.5.5/dns-query
+*.dewuhd.com = server:https://223.5.5.5/dns-query
+*.dewuhui.cn = server:https://223.5.5.5/dns-query
+*.dewuhui.com = server:https://223.5.5.5/dns-query
+*.dewumall.com = server:https://223.5.5.5/dns-query
+*.dewus.cn = server:https://223.5.5.5/dns-query
+*.dewuyouhui.cn = server:https://223.5.5.5/dns-query
+*.dewuyouhui.com = server:https://223.5.5.5/dns-query
 *.dfcfw.com = server:https://223.5.5.5/dns-query
 *.dfham.com = server:https://223.5.5.5/dns-query
 *.dfkhgj.com = server:https://223.5.5.5/dns-query
@@ -2134,6 +2151,7 @@
 *.dsp.simba.taobao.com = server:https://223.5.5.5/dns-query
 *.dtsbc.com.cn = server:https://223.5.5.5/dns-query
 *.dtstatic.com = server:https://223.5.5.5/dns-query
+*.du8.ltd = server:https://223.5.5.5/dns-query
 *.duapp.net = server:https://223.5.5.5/dns-query
 *.duapps.com = server:https://223.5.5.5/dns-query
 *.duba.com = server:https://223.5.5.5/dns-query
@@ -2161,6 +2179,10 @@
 *.duxiaomanfintech.com = server:https://223.5.5.5/dns-query
 *.duxiaomantech.com = server:https://223.5.5.5/dns-query
 *.duxiu.com = server:https://223.5.5.5/dns-query
+*.dw2.co = server:https://223.5.5.5/dns-query
+*.dw4.co = server:https://223.5.5.5/dns-query
+*.dwhhd.cn = server:https://223.5.5.5/dns-query
+*.dwhhd.com = server:https://223.5.5.5/dns-query
 *.dwion.com = server:https://223.5.5.5/dns-query
 *.dwjq.com.cn = server:https://223.5.5.5/dns-query
 *.dwstatic.com = server:https://223.5.5.5/dns-query
@@ -2580,6 +2602,9 @@
 *.ghzq.com.cn = server:https://223.5.5.5/dns-query
 *.gia.jd.com = server:https://223.5.5.5/dns-query
 *.gifshow.com = server:https://223.5.5.5/dns-query
+*.giftatdw.cn = server:https://223.5.5.5/dns-query
+*.giftatdw.com = server:https://223.5.5.5/dns-query
+*.giftattoday.com = server:https://223.5.5.5/dns-query
 *.gigabyte.cn = server:https://223.5.5.5/dns-query
 *.gijsq.com = server:https://223.5.5.5/dns-query
 *.gimg.baidu.com = server:https://223.5.5.5/dns-query
@@ -2661,6 +2686,9 @@
 *.greenxiazai.com = server:https://223.5.5.5/dns-query
 *.greeyun.com = server:https://223.5.5.5/dns-query
 *.growingio.com = server:https://223.5.5.5/dns-query
+*.growthsharebounce.cn = server:https://223.5.5.5/dns-query
+*.growthsharequestion.cn = server:https://223.5.5.5/dns-query
+*.growthsharetubular.cn = server:https://223.5.5.5/dns-query
 *.grzq.com = server:https://223.5.5.5/dns-query
 *.gsadds.com = server:https://223.5.5.5/dns-query
 *.gsgh.cn = server:https://223.5.5.5/dns-query
@@ -4479,6 +4507,7 @@
 *.pan.quark.cn = server:https://223.5.5.5/dns-query
 *.pan.xunlei.com = server:https://223.5.5.5/dns-query
 *.panasonic.cn = server:https://223.5.5.5/dns-query
+*.pandarzli.com = server:https://223.5.5.5/dns-query
 *.pangolin-dsp-toutiao-b.com = server:https://223.5.5.5/dns-query
 *.pangolin-dsp-toutiao.com = server:https://223.5.5.5/dns-query
 *.pangolin-sdk-toutiao-b.com = server:https://223.5.5.5/dns-query
@@ -4501,6 +4530,8 @@
 *.pddpic.com = server:https://223.5.5.5/dns-query
 *.pearvideo.com = server:https://223.5.5.5/dns-query
 *.peccn.com = server:https://223.5.5.5/dns-query
+*.pengyoudewu.cn = server:https://223.5.5.5/dns-query
+*.pengyoudewu.com = server:https://223.5.5.5/dns-query
 *.people.cn = server:https://223.5.5.5/dns-query
 *.people.com.cn = server:https://223.5.5.5/dns-query
 *.pfp.sina.com.cn = server:https://223.5.5.5/dns-query
@@ -4548,6 +4579,11 @@
 *.pkulaw.com = server:https://223.5.5.5/dns-query
 *.pmphmooc.com = server:https://223.5.5.5/dns-query
 *.pn1waq.com = server:https://223.5.5.5/dns-query
+*.poizon-inner.com = server:https://223.5.5.5/dns-query
+*.poizon-inner.net = server:https://223.5.5.5/dns-query
+*.poizon-support.com = server:https://223.5.5.5/dns-query
+*.poizon.com = server:https://223.5.5.5/dns-query
+*.poizon.net = server:https://223.5.5.5/dns-query
 *.policy.video.iqiyi.com = server:https://223.5.5.5/dns-query
 *.polyv.net = server:https://223.5.5.5/dns-query
 *.portal101.cn = server:https://223.5.5.5/dns-query
@@ -4964,6 +5000,8 @@
 *.shijiexia.com = server:https://223.5.5.5/dns-query
 *.shimo.im = server:https://223.5.5.5/dns-query
 *.shixiseng.com = server:https://223.5.5.5/dns-query
+*.shizhuang-inc.com = server:https://223.5.5.5/dns-query
+*.shizhuang-inc.net = server:https://223.5.5.5/dns-query
 *.shmetro.com = server:https://223.5.5.5/dns-query
 *.shopee.cn = server:https://223.5.5.5/dns-query
 *.shopeesz.com = server:https://223.5.5.5/dns-query
@@ -5396,6 +5434,9 @@
 *.tgprocs.net = server:https://223.5.5.5/dns-query
 *.th.bing.com = server:https://223.5.5.5/dns-query
 *.thecover.cn = server:https://223.5.5.5/dns-query
+*.theduapp.cn = server:https://223.5.5.5/dns-query
+*.theduapp.com = server:https://223.5.5.5/dns-query
+*.theduapp.com.cn = server:https://223.5.5.5/dns-query
 *.thelarkcloud.com = server:https://223.5.5.5/dns-query
 *.themisweeps.com = server:https://223.5.5.5/dns-query
 *.thepaper.cn = server:https://223.5.5.5/dns-query
@@ -6001,11 +6042,14 @@
 *.wo116114.com = server:https://223.5.5.5/dns-query
 *.wo1wan.com = server:https://223.5.5.5/dns-query
 *.woaihuoshan.com = server:https://223.5.5.5/dns-query
+*.wodehaodewu.cn = server:https://223.5.5.5/dns-query
 *.wodingche.com = server:https://223.5.5.5/dns-query
 *.wohst8.com = server:https://223.5.5.5/dns-query
 *.wol.tv = server:https://223.5.5.5/dns-query
 *.wolai.com = server:https://223.5.5.5/dns-query
 *.womai.com = server:https://223.5.5.5/dns-query
+*.womendedw.cn = server:https://223.5.5.5/dns-query
+*.womendedw.com = server:https://223.5.5.5/dns-query
 *.wondercv.com = server:https://223.5.5.5/dns-query
 *.wonnder.com = server:https://223.5.5.5/dns-query
 *.woocall.sina.com.cn = server:https://223.5.5.5/dns-query

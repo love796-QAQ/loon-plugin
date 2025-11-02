@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2025-11-01 02:30:34
+#!date = 2025-11-02 02:32:04
 #!system_version = 15
 
 [Host]
@@ -556,6 +556,8 @@
 *.aipage.com = server:https://223.5.5.5/dns-query
 *.aipai.com = server:https://223.5.5.5/dns-query
 *.aiqicha.baidu.com = server:https://223.5.5.5/dns-query
+*.aiqicha.cn = server:https://223.5.5.5/dns-query
+*.aiqicha.com = server:https://223.5.5.5/dns-query
 *.airchangan.com = server:https://223.5.5.5/dns-query
 *.airchina.com.cn = server:https://223.5.5.5/dns-query
 *.airchinacargo.com = server:https://223.5.5.5/dns-query
@@ -952,6 +954,7 @@
 *.bce-cdn.com = server:https://223.5.5.5/dns-query
 *.bce-cdn.net = server:https://223.5.5.5/dns-query
 *.bcebos.com = server:https://223.5.5.5/dns-query
+*.bcelive.com = server:https://223.5.5.5/dns-query
 *.bcfmglobal.com = server:https://223.5.5.5/dns-query
 *.bcvbw.com = server:https://223.5.5.5/dns-query
 *.bczcdn.com = server:https://223.5.5.5/dns-query
@@ -5005,6 +5008,7 @@
 *.quectel.com.cn = server:https://223.5.5.5/dns-query
 *.quehu.com = server:https://223.5.5.5/dns-query
 *.qugame.com = server:https://223.5.5.5/dns-query
+*.quickapp.cn = server:https://223.5.5.5/dns-query
 *.quickconnect.cn = server:https://223.5.5.5/dns-query
 *.qunar.com = server:https://223.5.5.5/dns-query
 *.qunarcdn.com = server:https://223.5.5.5/dns-query
@@ -6071,6 +6075,7 @@
 *.vm45e.cn = server:https://223.5.5.5/dns-query
 *.vmall.com = server:https://223.5.5.5/dns-query
 *.vmallres.com = server:https://223.5.5.5/dns-query
+*.vnet.cn = server:https://223.5.5.5/dns-query
 *.vo6z2.cn = server:https://223.5.5.5/dns-query
 *.vobao.com = server:https://223.5.5.5/dns-query
 *.vodtcbk.com = server:https://223.5.5.5/dns-query
@@ -6165,6 +6170,7 @@
 *.vrzwk.top = server:https://223.5.5.5/dns-query
 *.vscenevideo.com = server:https://223.5.5.5/dns-query
 *.vv84.bj.bcebos.com = server:https://223.5.5.5/dns-query
+*.vvstc.com = server:https://223.5.5.5/dns-query
 *.vxo7tu.com = server:https://223.5.5.5/dns-query
 *.vzuu.com = server:https://223.5.5.5/dns-query
 *.w.cnzz.com = server:https://223.5.5.5/dns-query
@@ -6616,6 +6622,7 @@
 *.yo9.com = server:https://223.5.5.5/dns-query
 *.yocajr.com = server:https://223.5.5.5/dns-query
 *.yoma.cn = server:https://223.5.5.5/dns-query
+*.yoojia.com = server:https://223.5.5.5/dns-query
 *.youba.com = server:https://223.5.5.5/dns-query
 *.youboy.com = server:https://223.5.5.5/dns-query
 *.youdao.com = server:https://223.5.5.5/dns-query
@@ -6817,7 +6824,10 @@
 *.zhonshian.com.cn = server:https://223.5.5.5/dns-query
 *.zhuancorp.com = server:https://223.5.5.5/dns-query
 *.zhuangjiba.com = server:https://223.5.5.5/dns-query
+*.zhuaninc.com = server:https://223.5.5.5/dns-query
+*.zhuanspirit.cn = server:https://223.5.5.5/dns-query
 *.zhuanspirit.com = server:https://223.5.5.5/dns-query
+*.zhuanstatic.com = server:https://223.5.5.5/dns-query
 *.zhuanyewanjia.com = server:https://223.5.5.5/dns-query
 *.zhuanzfx.com = server:https://223.5.5.5/dns-query
 *.zhuanzhuan.com = server:https://223.5.5.5/dns-query
@@ -6896,6 +6906,7 @@
 *.zui.cn = server:https://223.5.5.5/dns-query
 *.zui.com = server:https://223.5.5.5/dns-query
 *.zuidaima.com = server:https://223.5.5.5/dns-query
+*.zuihuimai.com = server:https://223.5.5.5/dns-query
 *.zuk.cn = server:https://223.5.5.5/dns-query
 *.zuk.com = server:https://223.5.5.5/dns-query
 *.zuk.com.cn = server:https://223.5.5.5/dns-query

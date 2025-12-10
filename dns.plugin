@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2025-12-09 02:31:56
+#!date = 2025-12-10 02:32:36
 #!system_version = 15
 
 [Host]
@@ -2664,6 +2664,7 @@
 *.gcloudcstestonly.com = server:https://223.5.5.5/dns-query
 *.gclouddolphin.com = server:https://223.5.5.5/dns-query
 *.gcloudsdk.com = server:https://223.5.5.5/dns-query
+*.gcloudsvcs.com = server:https://223.5.5.5/dns-query
 *.gcores.com = server:https://223.5.5.5/dns-query
 *.gdjdxy.com = server:https://223.5.5.5/dns-query
 *.gdliontech.com = server:https://223.5.5.5/dns-query
@@ -3922,6 +3923,7 @@
 *.larsonlimited.com = server:https://223.5.5.5/dns-query
 *.las.ac.cn = server:https://223.5.5.5/dns-query
 *.lascn.net = server:https://223.5.5.5/dns-query
+*.latepost.com = server:https://223.5.5.5/dns-query
 *.lawxp.com = server:https://223.5.5.5/dns-query
 *.lawyee.org = server:https://223.5.5.5/dns-query
 *.lazada.com = server:https://223.5.5.5/dns-query
@@ -4567,6 +4569,7 @@
 *.officeplus.cn = server:https://223.5.5.5/dns-query
 *.officese.com = server:https://223.5.5.5/dns-query
 *.officewebapps.cn = server:https://223.5.5.5/dns-query
+*.ofweek.com = server:https://223.5.5.5/dns-query
 *.oi-wiki.com = server:https://223.5.5.5/dns-query
 *.oicq88.com = server:https://223.5.5.5/dns-query
 *.okjike.com = server:https://223.5.5.5/dns-query
@@ -6465,6 +6468,7 @@
 *.xunfeixxj.com = server:https://223.5.5.5/dns-query
 *.xunlei.com = server:https://223.5.5.5/dns-query
 *.xunyou.com = server:https://223.5.5.5/dns-query
+*.xunyou.mobi = server:https://223.5.5.5/dns-query
 *.xwbank.com = server:https://223.5.5.5/dns-query
 *.xxsy.net = server:https://223.5.5.5/dns-query
 *.xxtmail.com = server:https://223.5.5.5/dns-query

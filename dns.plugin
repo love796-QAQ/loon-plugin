@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2026-01-04 02:45:21
+#!date = 2026-01-05 02:45:03
 #!system_version = 15
 
 [Host]
@@ -488,7 +488,9 @@
 *.adbox.sina.com.cn = server:https://223.5.5.5/dns-query
 *.adcommerce.cn = server:https://223.5.5.5/dns-query
 *.adfilter.imtt.qq.com = server:https://223.5.5.5/dns-query
+*.adidas.cn = server:https://223.5.5.5/dns-query
 *.adidas.com.cn = server:https://223.5.5.5/dns-query
+*.adidasspecialtysports.cn = server:https://223.5.5.5/dns-query
 *.adimg.mobile.sina.cn = server:https://223.5.5.5/dns-query
 *.adimg.uve.weibo.com = server:https://223.5.5.5/dns-query
 *.adkwai.com = server:https://223.5.5.5/dns-query
@@ -6409,6 +6411,7 @@
 *.wo116114.com = server:https://223.5.5.5/dns-query
 *.wo1wan.com = server:https://223.5.5.5/dns-query
 *.woaihuoshan.com = server:https://223.5.5.5/dns-query
+*.wocloud.com.cn = server:https://223.5.5.5/dns-query
 *.wodehaodewu.cn = server:https://223.5.5.5/dns-query
 *.wodingche.com = server:https://223.5.5.5/dns-query
 *.wohst8.com = server:https://223.5.5.5/dns-query
@@ -6422,6 +6425,7 @@
 *.woodo.cn = server:https://223.5.5.5/dns-query
 *.wooyun.org = server:https://223.5.5.5/dns-query
 *.woozooo.com = server:https://223.5.5.5/dns-query
+*.woread.com.cn = server:https://223.5.5.5/dns-query
 *.worktile.com = server:https://223.5.5.5/dns-query
 *.worldofship.cn = server:https://223.5.5.5/dns-query
 *.worldoftank.cn = server:https://223.5.5.5/dns-query

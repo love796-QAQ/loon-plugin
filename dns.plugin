@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2026-02-06 02:54:47
+#!date = 2026-02-07 02:51:46
 #!system_version = 15
 
 [Host]
@@ -2067,6 +2067,7 @@
 *.data.pharmacodia.com = server:https://223.5.5.5/dns-query
 *.dataeye.com = server:https://223.5.5.5/dns-query
 *.datasea.cn = server:https://223.5.5.5/dns-query
+*.datayi.cn = server:https://223.5.5.5/dns-query
 *.daton.com.cn = server:https://223.5.5.5/dns-query
 *.dayainfo.com = server:https://223.5.5.5/dns-query
 *.dayin8.com = server:https://223.5.5.5/dns-query
@@ -2148,6 +2149,7 @@
 *.dfcfw.com = server:https://223.5.5.5/dns-query
 *.dfham.com = server:https://223.5.5.5/dns-query
 *.dfkhgj.com = server:https://223.5.5.5/dns-query
+*.dfyun.com.cn = server:https://223.5.5.5/dns-query
 *.dfzq.com.cn = server:https://223.5.5.5/dns-query
 *.dginfo.com = server:https://223.5.5.5/dns-query
 *.dgjy.net = server:https://223.5.5.5/dns-query
@@ -2192,6 +2194,7 @@
 *.dji.ink = server:https://223.5.5.5/dns-query
 *.dji.net = server:https://223.5.5.5/dns-query
 *.djicdn.com = server:https://223.5.5.5/dns-query
+*.djigate.com = server:https://223.5.5.5/dns-query
 *.djiits.com = server:https://223.5.5.5/dns-query
 *.djiops.com = server:https://223.5.5.5/dns-query
 *.djiservice.org = server:https://223.5.5.5/dns-query
@@ -2518,6 +2521,7 @@
 *.falconsending.com = server:https://223.5.5.5/dns-query
 *.faloo.com = server:https://223.5.5.5/dns-query
 *.famulei.com = server:https://223.5.5.5/dns-query
+*.fanfou.com = server:https://223.5.5.5/dns-query
 *.fang.com = server:https://223.5.5.5/dns-query
 *.fangxiaoer.com = server:https://223.5.5.5/dns-query
 *.fanli.com = server:https://223.5.5.5/dns-query
@@ -2847,6 +2851,7 @@
 *.giftattoday.com = server:https://223.5.5.5/dns-query
 *.gigabyte.cn = server:https://223.5.5.5/dns-query
 *.gijsq.com = server:https://223.5.5.5/dns-query
+*.gio.ren = server:https://223.5.5.5/dns-query
 *.giocdn.com = server:https://223.5.5.5/dns-query
 *.gitbook.cn = server:https://223.5.5.5/dns-query
 *.gitchat.cn = server:https://223.5.5.5/dns-query
@@ -2923,6 +2928,8 @@
 *.gree.com.cn = server:https://223.5.5.5/dns-query
 *.greenxiazai.com = server:https://223.5.5.5/dns-query
 *.greeyun.com = server:https://223.5.5.5/dns-query
+*.growin.cn = server:https://223.5.5.5/dns-query
+*.growingio.cn = server:https://223.5.5.5/dns-query
 *.growingio.com = server:https://223.5.5.5/dns-query
 *.growthsharebounce.cn = server:https://223.5.5.5/dns-query
 *.growthsharequestion.cn = server:https://223.5.5.5/dns-query
@@ -4897,6 +4904,7 @@
 *.pc6.com = server:https://223.5.5.5/dns-query
 *.pcbeta.com = server:https://223.5.5.5/dns-query
 *.pchome.net = server:https://223.5.5.5/dns-query
+*.pchpic.net = server:https://223.5.5.5/dns-query
 *.pconline.com.cn = server:https://223.5.5.5/dns-query
 *.pcpop.com = server:https://223.5.5.5/dns-query
 *.pddcdn.com = server:https://223.5.5.5/dns-query
@@ -6581,6 +6589,7 @@
 *.xbext.com = server:https://223.5.5.5/dns-query
 *.xbiao.com = server:https://223.5.5.5/dns-query
 *.xboxlive.cn = server:https://223.5.5.5/dns-query
+*.xcc.cn = server:https://223.5.5.5/dns-query
 *.xcsc.com = server:https://223.5.5.5/dns-query
 *.xd.cn = server:https://223.5.5.5/dns-query
 *.xd.com = server:https://223.5.5.5/dns-query
@@ -6664,6 +6673,7 @@
 *.xiguavideo.net = server:https://223.5.5.5/dns-query
 *.ximalaya.com = server:https://223.5.5.5/dns-query
 *.xin.xin = server:https://223.5.5.5/dns-query
+*.xinchacha.com = server:https://223.5.5.5/dns-query
 *.xinchong.com = server:https://223.5.5.5/dns-query
 *.xindong.com = server:https://223.5.5.5/dns-query
 *.xinghuo.xfyun.cn = server:https://223.5.5.5/dns-query

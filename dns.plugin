@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2026-02-07 02:51:46
+#!date = 2026-02-08 02:59:26
 #!system_version = 15
 
 [Host]
@@ -2448,6 +2448,7 @@
 *.edgecloudx.cn = server:https://223.5.5.5/dns-query
 *.edgeone.cool = server:https://223.5.5.5/dns-query
 *.edgeonedy1.com = server:https://223.5.5.5/dns-query
+*.edgesrv.com = server:https://223.5.5.5/dns-query
 *.edu.cn = server:https://223.5.5.5/dns-query
 *.edu4399.com = server:https://223.5.5.5/dns-query
 *.eduad.baidu.com = server:https://223.5.5.5/dns-query
@@ -3733,6 +3734,7 @@
 *.jintdev.com = server:https://223.5.5.5/dns-query
 *.jinti.com = server:https://223.5.5.5/dns-query
 *.jiqizhixin.com = server:https://223.5.5.5/dns-query
+*.jisilu.cn = server:https://223.5.5.5/dns-query
 *.jisuanke.com = server:https://223.5.5.5/dns-query
 *.jisuxia.com = server:https://223.5.5.5/dns-query
 *.jiuyue919.com = server:https://223.5.5.5/dns-query

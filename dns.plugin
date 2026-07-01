@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2026-06-30 03:02:12
+#!date = 2026-07-01 03:02:58
 #!system_version = 15
 
 [Host]
@@ -4269,6 +4269,7 @@
 *.kimg.cn = server:https://223.5.5.5/dns-query
 *.kimi.com = server:https://223.5.5.5/dns-query
 *.kimiss.com = server:https://223.5.5.5/dns-query
+*.kimxz.com = server:https://223.5.5.5/dns-query
 *.kindle.cn = server:https://223.5.5.5/dns-query
 *.kindleoasis.cn = server:https://223.5.5.5/dns-query
 *.kindleoasis.com.cn = server:https://223.5.5.5/dns-query
@@ -4315,7 +4316,6 @@
 *.ks-cdn1.com = server:https://223.5.5.5/dns-query
 *.ks-live.com = server:https://223.5.5.5/dns-query
 *.ksapisrv.com = server:https://223.5.5.5/dns-query
-*.kscord.com = server:https://223.5.5.5/dns-query
 *.kshbank.cn = server:https://223.5.5.5/dns-query
 *.kskwai.com = server:https://223.5.5.5/dns-query
 *.ksmobile.com = server:https://223.5.5.5/dns-query

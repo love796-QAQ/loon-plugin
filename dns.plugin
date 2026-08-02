@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2026-08-01 05:17:55
+#!date = 2026-08-02 05:17:20
 #!system_version = 15
 
 [Host]
@@ -262,6 +262,7 @@
 *.3d66.com = server:https://223.5.5.5/dns-query
 *.3dmgame.com = server:https://223.5.5.5/dns-query
 *.3dmjiasu.com = server:https://223.5.5.5/dns-query
+*.3dwhere.com = server:https://223.5.5.5/dns-query
 *.3elife.net = server:https://223.5.5.5/dns-query
 *.3h3.com = server:https://223.5.5.5/dns-query
 *.3ili6.cn = server:https://223.5.5.5/dns-query
@@ -320,6 +321,7 @@
 *.51jingying.com = server:https://223.5.5.5/dns-query
 *.51job.com = server:https://223.5.5.5/dns-query
 *.51jobcdn.com = server:https://223.5.5.5/dns-query
+*.51kandianshi.com = server:https://223.5.5.5/dns-query
 *.51kim.com = server:https://223.5.5.5/dns-query
 *.51meishu.com = server:https://223.5.5.5/dns-query
 *.51nod.com = server:https://223.5.5.5/dns-query
@@ -335,13 +337,16 @@
 *.51zmt.top = server:https://223.5.5.5/dns-query
 *.5253.com = server:https://223.5.5.5/dns-query
 *.52hxw.com = server:https://223.5.5.5/dns-query
+*.52jiawei.com = server:https://223.5.5.5/dns-query
 *.52miji.com = server:https://223.5.5.5/dns-query
+*.52muban.com = server:https://223.5.5.5/dns-query
 *.52pk.com = server:https://223.5.5.5/dns-query
 *.52pojie.cn = server:https://223.5.5.5/dns-query
 *.52ppt.com = server:https://223.5.5.5/dns-query
 *.52z.com = server:https://223.5.5.5/dns-query
 *.53kf.com = server:https://223.5.5.5/dns-query
 *.55.com = server:https://223.5.5.5/dns-query
+*.55555.ink = server:https://223.5.5.5/dns-query
 *.5566ua.com = server:https://223.5.5.5/dns-query
 *.5577.com = server:https://223.5.5.5/dns-query
 *.55bbs.com = server:https://223.5.5.5/dns-query
@@ -372,6 +377,7 @@
 *.58xueche.com = server:https://223.5.5.5/dns-query
 *.59bob.cn = server:https://223.5.5.5/dns-query
 *.5bite.com = server:https://223.5.5.5/dns-query
+*.5ddd.com = server:https://223.5.5.5/dns-query
 *.5fun.com = server:https://223.5.5.5/dns-query
 *.5gzm.net = server:https://223.5.5.5/dns-query
 *.5ifund.com = server:https://223.5.5.5/dns-query
@@ -406,6 +412,7 @@
 *.7moor-fs1.com = server:https://223.5.5.5/dns-query
 *.7moor.com = server:https://223.5.5.5/dns-query
 *.7po.com = server:https://223.5.5.5/dns-query
+*.7sef.com = server:https://223.5.5.5/dns-query
 *.7x24cc.com = server:https://223.5.5.5/dns-query
 *.7xdown.com = server:https://223.5.5.5/dns-query
 *.8008205555.cn = server:https://223.5.5.5/dns-query
@@ -461,6 +468,7 @@
 *.97ting.com = server:https://223.5.5.5/dns-query
 *.99166.com = server:https://223.5.5.5/dns-query
 *.998.com = server:https://223.5.5.5/dns-query
+*.998tool.com = server:https://223.5.5.5/dns-query
 *.999d.com = server:https://223.5.5.5/dns-query
 *.99danji.com = server:https://223.5.5.5/dns-query
 *.99fund.com = server:https://223.5.5.5/dns-query
@@ -626,6 +634,7 @@
 *.afdian.com = server:https://223.5.5.5/dns-query
 *.afdian.net = server:https://223.5.5.5/dns-query
 *.afdiancdn.com = server:https://223.5.5.5/dns-query
+*.afeica.com = server:https://223.5.5.5/dns-query
 *.afp.iqiyi.com = server:https://223.5.5.5/dns-query
 *.afzhan.com = server:https://223.5.5.5/dns-query
 *.agconnect.link = server:https://223.5.5.5/dns-query
@@ -861,6 +870,7 @@
 *.antutu.net = server:https://223.5.5.5/dns-query
 *.anxia.com = server:https://223.5.5.5/dns-query
 *.anycross.com = server:https://223.5.5.5/dns-query
+*.anycubic.com = server:https://223.5.5.5/dns-query
 *.anytocopy.com = server:https://223.5.5.5/dns-query
 *.anywlan.com = server:https://223.5.5.5/dns-query
 *.anzhuo.cn = server:https://223.5.5.5/dns-query
@@ -954,6 +964,7 @@
 *.atm.youku.com = server:https://223.5.5.5/dns-query
 *.att.cn = server:https://223.5.5.5/dns-query
 *.attcorp.cn = server:https://223.5.5.5/dns-query
+*.atticus.vip = server:https://223.5.5.5/dns-query
 *.audid.umeng.com = server:https://223.5.5.5/dns-query
 *.aurorapush.cn = server:https://223.5.5.5/dns-query
 *.auto-validation.com = server:https://223.5.5.5/dns-query
@@ -1094,6 +1105,7 @@
 *.baixing.net = server:https://223.5.5.5/dns-query
 *.baiying.cn = server:https://223.5.5.5/dns-query
 *.baiying.com.cn = server:https://223.5.5.5/dns-query
+*.baiyishequ.com = server:https://223.5.5.5/dns-query
 *.baltamatica.cn = server:https://223.5.5.5/dns-query
 *.baltamatica.com = server:https://223.5.5.5/dns-query
 *.baltamatica.net = server:https://223.5.5.5/dns-query
@@ -1240,6 +1252,7 @@
 *.bhsr.com = server:https://223.5.5.5/dns-query
 *.biancheng.net = server:https://223.5.5.5/dns-query
 *.bianews.com = server:https://223.5.5.5/dns-query
+*.biaoda.me = server:https://223.5.5.5/dns-query
 *.bibaodao.com = server:https://223.5.5.5/dns-query
 *.bidchance.com = server:https://223.5.5.5/dns-query
 *.biddingx.com = server:https://223.5.5.5/dns-query
@@ -1356,6 +1369,7 @@
 *.bosszhipin.com = server:https://223.5.5.5/dns-query
 *.bouffalolab.com = server:https://223.5.5.5/dns-query
 *.boxdouyin.com = server:https://223.5.5.5/dns-query
+*.boyuemobile.com = server:https://223.5.5.5/dns-query
 *.bpgslbcn.com = server:https://223.5.5.5/dns-query
 *.bpigagtm.com = server:https://223.5.5.5/dns-query
 *.bpigagtm.net = server:https://223.5.5.5/dns-query
@@ -1544,6 +1558,7 @@
 *.camcard.com = server:https://223.5.5.5/dns-query
 *.camscanner.com = server:https://223.5.5.5/dns-query
 *.cang.com = server:https://223.5.5.5/dns-query
+*.canghaiip.com = server:https://223.5.5.5/dns-query
 *.cangpeng.com = server:https://223.5.5.5/dns-query
 *.cankaoxiaoxi.com = server:https://223.5.5.5/dns-query
 *.canon.cn = server:https://223.5.5.5/dns-query
@@ -1766,6 +1781,7 @@
 *.cftsupport.com = server:https://223.5.5.5/dns-query
 *.cfund108.com = server:https://223.5.5.5/dns-query
 *.cfzq.com = server:https://223.5.5.5/dns-query
+*.cg3da.com = server:https://223.5.5.5/dns-query
 *.cgames.com = server:https://223.5.5.5/dns-query
 *.cgbchina.com.cn = server:https://223.5.5.5/dns-query
 *.cgws.com = server:https://223.5.5.5/dns-query
@@ -1955,6 +1971,7 @@
 *.cjyun.org = server:https://223.5.5.5/dns-query
 *.ckd.im = server:https://223.5.5.5/dns-query
 *.ckxx.net = server:https://223.5.5.5/dns-query
+*.clangcn.com = server:https://223.5.5.5/dns-query
 *.clawhub-mirror.com = server:https://223.5.5.5/dns-query
 *.clawhubmirror.com = server:https://223.5.5.5/dns-query
 *.clawsentry.cn = server:https://223.5.5.5/dns-query
@@ -2126,6 +2143,7 @@
 *.cnms.net.cn = server:https://223.5.5.5/dns-query
 *.cnmstl.net = server:https://223.5.5.5/dns-query
 *.cnpc.com.cn = server:https://223.5.5.5/dns-query
+*.cnppa.org = server:https://223.5.5.5/dns-query
 *.cnpsec.com = server:https://223.5.5.5/dns-query
 *.cnr.cn = server:https://223.5.5.5/dns-query
 *.cns.com.cn = server:https://223.5.5.5/dns-query
@@ -2153,6 +2171,7 @@
 *.codm.com = server:https://223.5.5.5/dns-query
 *.cofco.com = server:https://223.5.5.5/dns-query
 *.cofeed.com = server:https://223.5.5.5/dns-query
+*.coffee-iot.com = server:https://223.5.5.5/dns-query
 *.cofool.com = server:https://223.5.5.5/dns-query
 *.coindog.com = server:https://223.5.5.5/dns-query
 *.colinker.com = server:https://223.5.5.5/dns-query
@@ -2181,6 +2200,7 @@
 *.coolbuy.com = server:https://223.5.5.5/dns-query
 *.cooldock.com = server:https://223.5.5.5/dns-query
 *.coolsite.vip = server:https://223.5.5.5/dns-query
+*.coros.com = server:https://223.5.5.5/dns-query
 *.cowcs.com = server:https://223.5.5.5/dns-query
 *.cowlevel.net = server:https://223.5.5.5/dns-query
 *.cowtransfer.com = server:https://223.5.5.5/dns-query
@@ -2245,6 +2265,7 @@
 *.csjplatform.com = server:https://223.5.5.5/dns-query
 *.csmjzs.com = server:https://223.5.5.5/dns-query
 *.cspro.org = server:https://223.5.5.5/dns-query
+*.csqaq.com = server:https://223.5.5.5/dns-query
 *.csslcloud.net = server:https://223.5.5.5/dns-query
 *.cstm.baidu.com = server:https://223.5.5.5/dns-query
 *.csto.com = server:https://223.5.5.5/dns-query
@@ -2435,6 +2456,7 @@
 *.ddurl.to = server:https://223.5.5.5/dns-query
 *.dduser.mobi = server:https://223.5.5.5/dns-query
 *.ddxq.mobi = server:https://223.5.5.5/dns-query
+*.ddzn.tech = server:https://223.5.5.5/dns-query
 *.dearedu.com = server:https://223.5.5.5/dns-query
 *.debugmode.cn = server:https://223.5.5.5/dns-query
 *.dedecms.com = server:https://223.5.5.5/dns-query
@@ -2609,6 +2631,7 @@
 *.dot.pub = server:https://223.5.5.5/dns-query
 *.dota2.com.cn = server:https://223.5.5.5/dns-query
 *.dota2.wmsj.cn = server:https://223.5.5.5/dns-query
+*.dothantech.com = server:https://223.5.5.5/dns-query
 *.dothework.cn = server:https://223.5.5.5/dns-query
 *.doticloud.com = server:https://223.5.5.5/dns-query
 *.dotserver.douyucdn.cn = server:https://223.5.5.5/dns-query
@@ -2660,6 +2683,7 @@
 *.drmcmm.baidu.com = server:https://223.5.5.5/dns-query
 *.drp321.com = server:https://223.5.5.5/dns-query
 *.druid.vip = server:https://223.5.5.5/dns-query
+*.drvceo.com = server:https://223.5.5.5/dns-query
 *.dt.dbankcloud.ru = server:https://223.5.5.5/dns-query
 *.dtsbc.com.cn = server:https://223.5.5.5/dns-query
 *.dtstatic.com = server:https://223.5.5.5/dns-query
@@ -2790,6 +2814,7 @@
 *.ebscn-am.com = server:https://223.5.5.5/dns-query
 *.ebscn.com = server:https://223.5.5.5/dns-query
 *.ebtrust.com = server:https://223.5.5.5/dns-query
+*.eceshi.com = server:https://223.5.5.5/dns-query
 *.ecgapp.com.cn = server:https://223.5.5.5/dns-query
 *.ecitic.com = server:https://223.5.5.5/dns-query
 *.ecjobhome.com = server:https://223.5.5.5/dns-query
@@ -2847,6 +2872,7 @@
 *.ems.youku.com = server:https://223.5.5.5/dns-query
 *.emumax.com = server:https://223.5.5.5/dns-query
 *.engkoo.com = server:https://223.5.5.5/dns-query
+*.englibrary.com = server:https://223.5.5.5/dns-query
 *.enterdesk.com = server:https://223.5.5.5/dns-query
 *.eoeandroid.com = server:https://223.5.5.5/dns-query
 *.eoffcn.com = server:https://223.5.5.5/dns-query
@@ -2854,6 +2880,7 @@
 *.eolink.com = server:https://223.5.5.5/dns-query
 *.er07.com = server:https://223.5.5.5/dns-query
 *.erji.net = server:https://223.5.5.5/dns-query
+*.erocraft.com = server:https://223.5.5.5/dns-query
 *.erp.cn = server:https://223.5.5.5/dns-query
 *.erp198.com = server:https://223.5.5.5/dns-query
 *.erp321.cn = server:https://223.5.5.5/dns-query
@@ -2977,6 +3004,7 @@
 *.feishustatus.cn = server:https://223.5.5.5/dns-query
 *.feishuvc.cn = server:https://223.5.5.5/dns-query
 *.feishuvc.com = server:https://223.5.5.5/dns-query
+*.feizhiyi.com = server:https://223.5.5.5/dns-query
 *.feizhu.cn = server:https://223.5.5.5/dns-query
 *.feizhu.com = server:https://223.5.5.5/dns-query
 *.fenbi.com = server:https://223.5.5.5/dns-query
@@ -2994,6 +3022,7 @@
 *.fengkongcloud.com = server:https://223.5.5.5/dns-query
 *.fengniao.com = server:https://223.5.5.5/dns-query
 *.fengniaojipei.net = server:https://223.5.5.5/dns-query
+*.fengsutb.com = server:https://223.5.5.5/dns-query
 *.fengxian110.com = server:https://223.5.5.5/dns-query
 *.fenxi.360.cn = server:https://223.5.5.5/dns-query
 *.fenxi.com = server:https://223.5.5.5/dns-query
@@ -3030,6 +3059,7 @@
 *.focus.cn = server:https://223.5.5.5/dns-query
 *.fofa.info = server:https://223.5.5.5/dns-query
 *.fofa.so = server:https://223.5.5.5/dns-query
+*.fofuai.com = server:https://223.5.5.5/dns-query
 *.fontstar.com.cn = server:https://223.5.5.5/dns-query
 *.foresightfund.com = server:https://223.5.5.5/dns-query
 *.forevernine.com = server:https://223.5.5.5/dns-query
@@ -3159,11 +3189,13 @@
 *.fymallqa9.com = server:https://223.5.5.5/dns-query
 *.fzaqjy.com = server:https://223.5.5.5/dns-query
 *.fzfinancing.com = server:https://223.5.5.5/dns-query
+*.fzwqq.com = server:https://223.5.5.5/dns-query
 *.g.163.com = server:https://223.5.5.5/dns-query
 *.g.click.taobao.com = server:https://223.5.5.5/dns-query
 *.g.cn = server:https://223.5.5.5/dns-query
 *.g3.letv.com = server:https://223.5.5.5/dns-query
 *.gaapqcloud.com = server:https://223.5.5.5/dns-query
+*.gaishitongshu.com = server:https://223.5.5.5/dns-query
 *.galaxyasset.com = server:https://223.5.5.5/dns-query
 *.game234.com = server:https://223.5.5.5/dns-query
 *.gameabc.com = server:https://223.5.5.5/dns-query
@@ -3185,6 +3217,7 @@
 *.gaode.com = server:https://223.5.5.5/dns-query
 *.gaodun.com = server:https://223.5.5.5/dns-query
 *.gaojidata.com = server:https://223.5.5.5/dns-query
+*.gaojiua.com = server:https://223.5.5.5/dns-query
 *.gaokao.com = server:https://223.5.5.5/dns-query
 *.gaoshouyou.com = server:https://223.5.5.5/dns-query
 *.gaoxiaojob.com = server:https://223.5.5.5/dns-query
@@ -3212,6 +3245,7 @@
 *.geforce.cn = server:https://223.5.5.5/dns-query
 *.gefund.com.cn = server:https://223.5.5.5/dns-query
 *.geilicdn.com = server:https://223.5.5.5/dns-query
+*.gelaiyun.net = server:https://223.5.5.5/dns-query
 *.geossl.cn = server:https://223.5.5.5/dns-query
 *.gepush.com = server:https://223.5.5.5/dns-query
 *.getfeishu.cn = server:https://223.5.5.5/dns-query
@@ -3235,10 +3269,12 @@
 *.ggoplay.com = server:https://223.5.5.5/dns-query
 *.ggowan.com = server:https://223.5.5.5/dns-query
 *.ggpht.cn = server:https://223.5.5.5/dns-query
+*.ghoxz.com = server:https://223.5.5.5/dns-query
 *.ghsl.cn = server:https://223.5.5.5/dns-query
 *.ghxi.com = server:https://223.5.5.5/dns-query
 *.ghzq.com.cn = server:https://223.5.5.5/dns-query
 *.gia.jd.com = server:https://223.5.5.5/dns-query
+*.giecds.com = server:https://223.5.5.5/dns-query
 *.gifpay.com = server:https://223.5.5.5/dns-query
 *.gifshow.com = server:https://223.5.5.5/dns-query
 *.giftatdw.cn = server:https://223.5.5.5/dns-query
@@ -3277,7 +3313,9 @@
 *.gmanhua.com = server:https://223.5.5.5/dns-query
 *.gmdaily.cn = server:https://223.5.5.5/dns-query
 *.gmedev.cn = server:https://223.5.5.5/dns-query
+*.gmoj.net = server:https://223.5.5.5/dns-query
 *.gmw.cn = server:https://223.5.5.5/dns-query
+*.gmya.net = server:https://223.5.5.5/dns-query
 *.gmz88.com = server:https://223.5.5.5/dns-query
 *.gneec.com = server:https://223.5.5.5/dns-query
 *.gneec.com.cn = server:https://223.5.5.5/dns-query
@@ -3304,7 +3342,9 @@
 *.goofish.pro = server:https://223.5.5.5/dns-query
 *.google.cn = server:https://223.5.5.5/dns-query
 *.googlecnapps.cn = server:https://223.5.5.5/dns-query
+*.googoc.com = server:https://223.5.5.5/dns-query
 *.goosail.com = server:https://223.5.5.5/dns-query
+*.gootho.com = server:https://223.5.5.5/dns-query
 *.goproxy.cn = server:https://223.5.5.5/dns-query
 *.goproxy.io = server:https://223.5.5.5/dns-query
 *.goselling.com = server:https://223.5.5.5/dns-query
@@ -3341,6 +3381,7 @@
 *.grzq.com = server:https://223.5.5.5/dns-query
 *.gsadds.com = server:https://223.5.5.5/dns-query
 *.gsctyiptv.cn = server:https://223.5.5.5/dns-query
+*.gseen.com = server:https://223.5.5.5/dns-query
 *.gsgh.cn = server:https://223.5.5.5/dns-query
 *.gsjtyiptv.cn = server:https://223.5.5.5/dns-query
 *.gslbdns.com = server:https://223.5.5.5/dns-query
@@ -3454,6 +3495,7 @@
 *.haofenshu.com = server:https://223.5.5.5/dns-query
 *.haohaodoc.com = server:https://223.5.5.5/dns-query
 *.haohaowan.net = server:https://223.5.5.5/dns-query
+*.haojieyun.com = server:https://223.5.5.5/dns-query
 *.haokan.com = server:https://223.5.5.5/dns-query
 *.haolietou.com = server:https://223.5.5.5/dns-query
 *.haoso.com = server:https://223.5.5.5/dns-query
@@ -3544,6 +3586,7 @@
 *.hihonorcdn.com = server:https://223.5.5.5/dns-query
 *.hihonorcloud.com = server:https://223.5.5.5/dns-query
 *.hiido.com = server:https://223.5.5.5/dns-query
+*.hijin.vip = server:https://223.5.5.5/dns-query
 *.hik-cloud.com = server:https://223.5.5.5/dns-query
 *.hik-express.com = server:https://223.5.5.5/dns-query
 *.hikiot.com = server:https://223.5.5.5/dns-query
@@ -3580,10 +3623,12 @@
 *.hnacargo.com = server:https://223.5.5.5/dns-query
 *.hnair.com = server:https://223.5.5.5/dns-query
 *.hnbntv.com = server:https://223.5.5.5/dns-query
+*.hnchasing.com = server:https://223.5.5.5/dns-query
 *.hndt.com = server:https://223.5.5.5/dns-query
 *.hnol.net = server:https://223.5.5.5/dns-query
 *.hnrcsc.com = server:https://223.5.5.5/dns-query
 *.hntv.tv = server:https://223.5.5.5/dns-query
+*.hnxzctec.com = server:https://223.5.5.5/dns-query
 *.hnyuyuhui.com = server:https://223.5.5.5/dns-query
 *.hollycrm.com = server:https://223.5.5.5/dns-query
 *.homeinns.com = server:https://223.5.5.5/dns-query
@@ -3772,6 +3817,7 @@
 *.hwads-t.api.my7v.com = server:https://223.5.5.5/dns-query
 *.hwastro.cn = server:https://223.5.5.5/dns-query
 *.hwastro.com = server:https://223.5.5.5/dns-query
+*.hwbim.com = server:https://223.5.5.5/dns-query
 *.hwccpc.cn = server:https://223.5.5.5/dns-query
 *.hwccpc.com = server:https://223.5.5.5/dns-query
 *.hwcdnsre.cn = server:https://223.5.5.5/dns-query
@@ -3796,6 +3842,7 @@
 *.hwtrip.com = server:https://223.5.5.5/dns-query
 *.hwwlyz.com = server:https://223.5.5.5/dns-query
 *.hwwt8.com = server:https://223.5.5.5/dns-query
+*.hwzuku.com = server:https://223.5.5.5/dns-query
 *.hx168.com.cn = server:https://223.5.5.5/dns-query
 *.hxb.com.cn = server:https://223.5.5.5/dns-query
 *.hxfy888.com = server:https://223.5.5.5/dns-query
@@ -3868,6 +3915,7 @@
 *.ictbda.cn = server:https://223.5.5.5/dns-query
 *.ictbda.com = server:https://223.5.5.5/dns-query
 *.icve.com.cn = server:https://223.5.5.5/dns-query
+*.idazhe.net = server:https://223.5.5.5/dns-query
 *.idcgcloudcs.com = server:https://223.5.5.5/dns-query
 *.idcquan.com = server:https://223.5.5.5/dns-query
 *.idea123.cn = server:https://223.5.5.5/dns-query
@@ -3896,6 +3944,7 @@
 *.ifeilian.com = server:https://223.5.5.5/dns-query
 *.ifeng.com = server:https://223.5.5.5/dns-query
 *.ifengimg.com = server:https://223.5.5.5/dns-query
+*.ifengmap.com = server:https://223.5.5.5/dns-query
 *.ifengweekly.com = server:https://223.5.5.5/dns-query
 *.iflyink.com = server:https://223.5.5.5/dns-query
 *.iflyrec.com = server:https://223.5.5.5/dns-query
@@ -3909,6 +3958,7 @@
 *.igetui.com = server:https://223.5.5.5/dns-query
 *.igexin.com = server:https://223.5.5.5/dns-query
 *.ign.com.cn = server:https://223.5.5.5/dns-query
+*.igpsport.com = server:https://223.5.5.5/dns-query
 *.igtm-meeting-tencent.com = server:https://223.5.5.5/dns-query
 *.igtm.pub = server:https://223.5.5.5/dns-query
 *.iguopin.com = server:https://223.5.5.5/dns-query
@@ -4260,6 +4310,7 @@
 *.jisilu.cn = server:https://223.5.5.5/dns-query
 *.jisuanke.com = server:https://223.5.5.5/dns-query
 *.jisuxia.com = server:https://223.5.5.5/dns-query
+*.jiucaishuo.com = server:https://223.5.5.5/dns-query
 *.jiuyue919.com = server:https://223.5.5.5/dns-query
 *.jiuzhilan.com = server:https://223.5.5.5/dns-query
 *.jiyoujia.com = server:https://223.5.5.5/dns-query
@@ -4366,6 +4417,7 @@
 *.juhuiwan.com = server:https://223.5.5.5/dns-query
 *.juhuiwan.com.cn = server:https://223.5.5.5/dns-query
 *.juhuiwan.net = server:https://223.5.5.5/dns-query
+*.julebu.co = server:https://223.5.5.5/dns-query
 *.julive.com = server:https://223.5.5.5/dns-query
 *.jumei.com = server:https://223.5.5.5/dns-query
 *.juneyaoair.com = server:https://223.5.5.5/dns-query
@@ -4407,6 +4459,7 @@
 *.kaifayun.com = server:https://223.5.5.5/dns-query
 *.kaifubiao.com = server:https://223.5.5.5/dns-query
 *.kaihong.com = server:https://223.5.5.5/dns-query
+*.kaijiacloud.com = server:https://223.5.5.5/dns-query
 *.kaipai.com = server:https://223.5.5.5/dns-query
 *.kaipanhong.com = server:https://223.5.5.5/dns-query
 *.kaipuyun.cn = server:https://223.5.5.5/dns-query
@@ -4452,6 +4505,7 @@
 *.kesong.co = server:https://223.5.5.5/dns-query
 *.ketangpai.com = server:https://223.5.5.5/dns-query
 *.kexinshe.com = server:https://223.5.5.5/dns-query
+*.keyoo.com = server:https://223.5.5.5/dns-query
 *.kf.cn = server:https://223.5.5.5/dns-query
 *.kf5.com = server:https://223.5.5.5/dns-query
 *.kfc.com.cn = server:https://223.5.5.5/dns-query
@@ -4494,6 +4548,7 @@
 *.kma1g.cn = server:https://223.5.5.5/dns-query
 *.kmcb-cn-east-3.cn = server:https://223.5.5.5/dns-query
 *.kmcb-cn-north-4.cn = server:https://223.5.5.5/dns-query
+*.kmeila.com = server:https://223.5.5.5/dns-query
 *.kmop-cn-east-3.cn = server:https://223.5.5.5/dns-query
 *.kmop-cn-north-4.cn = server:https://223.5.5.5/dns-query
 *.knet.cn = server:https://223.5.5.5/dns-query
@@ -4532,6 +4587,7 @@
 *.ku6cdn.com = server:https://223.5.5.5/dns-query
 *.ku6img.com = server:https://223.5.5.5/dns-query
 *.kuaaa.com = server:https://223.5.5.5/dns-query
+*.kuaicha888.com = server:https://223.5.5.5/dns-query
 *.kuaidi.com = server:https://223.5.5.5/dns-query
 *.kuaidi100.com = server:https://223.5.5.5/dns-query
 *.kuaidilab.com = server:https://223.5.5.5/dns-query
@@ -4619,6 +4675,7 @@
 *.lanjinger.com = server:https://223.5.5.5/dns-query
 *.lanosso.com = server:https://223.5.5.5/dns-query
 *.lanrar.com = server:https://223.5.5.5/dns-query
+*.lanyun.net = server:https://223.5.5.5/dns-query
 *.lanzou.com = server:https://223.5.5.5/dns-query
 *.lanzoub.com = server:https://223.5.5.5/dns-query
 *.lanzouc.com = server:https://223.5.5.5/dns-query
@@ -4705,6 +4762,7 @@
 *.lecloudapi.com = server:https://223.5.5.5/dns-query
 *.lecoo.com = server:https://223.5.5.5/dns-query
 *.ledu.com = server:https://223.5.5.5/dns-query
+*.leelen.com = server:https://223.5.5.5/dns-query
 *.leetcode-cn.com = server:https://223.5.5.5/dns-query
 *.leetcode.cn = server:https://223.5.5.5/dns-query
 *.legendofzelda.cn = server:https://223.5.5.5/dns-query
@@ -4799,6 +4857,7 @@
 *.litessl.com = server:https://223.5.5.5/dns-query
 *.liulanqi.net = server:https://223.5.5.5/dns-query
 *.liulishuo.com = server:https://223.5.5.5/dns-query
+*.liunn.com = server:https://223.5.5.5/dns-query
 *.liuxiaoer.com = server:https://223.5.5.5/dns-query
 *.liuxing.com = server:https://223.5.5.5/dns-query
 *.live800.com = server:https://223.5.5.5/dns-query
@@ -4841,6 +4900,7 @@
 *.logs.amap.com = server:https://223.5.5.5/dns-query
 *.logupdate.avlyun.sec.miui.com = server:https://223.5.5.5/dns-query
 *.longhoo.net = server:https://223.5.5.5/dns-query
+*.longmenshuju.com = server:https://223.5.5.5/dns-query
 *.longone.com.cn = server:https://223.5.5.5/dns-query
 *.longre.com = server:https://223.5.5.5/dns-query
 *.longtugame.com = server:https://223.5.5.5/dns-query
@@ -4856,6 +4916,7 @@
 *.lppzimg.com = server:https://223.5.5.5/dns-query
 *.lrts.me = server:https://223.5.5.5/dns-query
 *.ls66.cn = server:https://223.5.5.5/dns-query
+*.lsbj365.com = server:https://223.5.5.5/dns-query
 *.lsplayer.com = server:https://223.5.5.5/dns-query
 *.lstat.youku.com = server:https://223.5.5.5/dns-query
 *.lu.com = server:https://223.5.5.5/dns-query
@@ -4879,6 +4940,7 @@
 *.luojilab.com = server:https://223.5.5.5/dns-query
 *.luyouqi.com = server:https://223.5.5.5/dns-query
 *.lvcampaign.com = server:https://223.5.5.5/dns-query
+*.lvfapiao.com = server:https://223.5.5.5/dns-query
 *.lvmama.com = server:https://223.5.5.5/dns-query
 *.lvsexitong.com = server:https://223.5.5.5/dns-query
 *.lvtds.com = server:https://223.5.5.5/dns-query
@@ -4902,6 +4964,7 @@
 *.lydass.cn = server:https://223.5.5.5/dns-query
 *.lydass.com.cn = server:https://223.5.5.5/dns-query
 *.lydass.net = server:https://223.5.5.5/dns-query
+*.lyihub.com = server:https://223.5.5.5/dns-query
 *.lync.cn = server:https://223.5.5.5/dns-query
 *.lz310.com = server:https://223.5.5.5/dns-query
 *.lzpipi.com = server:https://223.5.5.5/dns-query
@@ -4961,6 +5024,7 @@
 *.markji.com = server:https://223.5.5.5/dns-query
 *.marscode.cn = server:https://223.5.5.5/dns-query
 *.marscode.com.cn = server:https://223.5.5.5/dns-query
+*.mashangfangxin.com = server:https://223.5.5.5/dns-query
 *.mashort.cn = server:https://223.5.5.5/dns-query
 *.matpool.com = server:https://223.5.5.5/dns-query
 *.matpool.net = server:https://223.5.5.5/dns-query
@@ -5004,6 +5068,7 @@
 *.mediav.com = server:https://223.5.5.5/dns-query
 *.medicexam.net = server:https://223.5.5.5/dns-query
 *.meegobeta.com = server:https://223.5.5.5/dns-query
+*.megawords.cc = server:https://223.5.5.5/dns-query
 *.mei.com = server:https://223.5.5.5/dns-query
 *.meican.com = server:https://223.5.5.5/dns-query
 *.meicanstatic.com = server:https://223.5.5.5/dns-query
@@ -5087,6 +5152,7 @@
 *.mideaepayuat.com = server:https://223.5.5.5/dns-query
 *.mieco.net = server:https://223.5.5.5/dns-query
 *.miercn.com = server:https://223.5.5.5/dns-query
+*.mifeng.plus = server:https://223.5.5.5/dns-query
 *.mifile.cn = server:https://223.5.5.5/dns-query
 *.mifon.com = server:https://223.5.5.5/dns-query
 *.migames.com = server:https://223.5.5.5/dns-query
@@ -5220,6 +5286,7 @@
 *.msidentity.cn = server:https://223.5.5.5/dns-query
 *.msidlabpbmc.cn = server:https://223.5.5.5/dns-query
 *.msjyfund.com.cn = server:https://223.5.5.5/dns-query
+*.mslmc.net = server:https://223.5.5.5/dns-query
 *.msmartlife.cn = server:https://223.5.5.5/dns-query
 *.msmartlife.com = server:https://223.5.5.5/dns-query
 *.msn.cn = server:https://223.5.5.5/dns-query
@@ -5283,6 +5350,7 @@
 *.myhwclouds.com.cn = server:https://223.5.5.5/dns-query
 *.myhwclouds.net = server:https://223.5.5.5/dns-query
 *.myimis.com = server:https://223.5.5.5/dns-query
+*.mykuaidi.com = server:https://223.5.5.5/dns-query
 *.myoppo.com = server:https://223.5.5.5/dns-query
 *.mypaas.com = server:https://223.5.5.5/dns-query
 *.mypaas.com.cn = server:https://223.5.5.5/dns-query
@@ -5290,6 +5358,7 @@
 *.myqcloud.com = server:https://223.5.5.5/dns-query
 *.myqnapcloud.cn = server:https://223.5.5.5/dns-query
 *.myquark.cn = server:https://223.5.5.5/dns-query
+*.myshopex.com = server:https://223.5.5.5/dns-query
 *.myshow360.net = server:https://223.5.5.5/dns-query
 *.mysiteres.com = server:https://223.5.5.5/dns-query
 *.mysqil.com = server:https://223.5.5.5/dns-query
@@ -5334,6 +5403,7 @@
 *.neihancommunity.cn = server:https://223.5.5.5/dns-query
 *.neihancommunity.com = server:https://223.5.5.5/dns-query
 *.neihancommunity.net = server:https://223.5.5.5/dns-query
+*.neihang.net = server:https://223.5.5.5/dns-query
 *.neixin.cn = server:https://223.5.5.5/dns-query
 *.nellit.cn = server:https://223.5.5.5/dns-query
 *.nellit.com.cn = server:https://223.5.5.5/dns-query
@@ -5379,6 +5449,7 @@
 *.ngacn.cc = server:https://223.5.5.5/dns-query
 *.nic.xin = server:https://223.5.5.5/dns-query
 *.nicaifu.com = server:https://223.5.5.5/dns-query
+*.nicezhuanye.com = server:https://223.5.5.5/dns-query
 *.nihaoafrica.org = server:https://223.5.5.5/dns-query
 *.nihaorwanda.cn = server:https://223.5.5.5/dns-query
 *.nike-shox.cn = server:https://223.5.5.5/dns-query
@@ -5413,6 +5484,7 @@
 *.njzq.com.cn = server:https://223.5.5.5/dns-query
 *.nlark.com = server:https://223.5.5.5/dns-query
 *.nlc.cn = server:https://223.5.5.5/dns-query
+*.nlyd.club = server:https://223.5.5.5/dns-query
 *.nmc.cn = server:https://223.5.5.5/dns-query
 *.nmrdata.com = server:https://223.5.5.5/dns-query
 *.nn.com = server:https://223.5.5.5/dns-query
@@ -5570,6 +5642,7 @@
 *.ourdvsss.com = server:https://223.5.5.5/dns-query
 *.ourjiangsu.com = server:https://223.5.5.5/dns-query
 *.ourl.co = server:https://223.5.5.5/dns-query
+*.ourschool.cc = server:https://223.5.5.5/dns-query
 *.outlook.cn = server:https://223.5.5.5/dns-query
 *.ovscdns.com = server:https://223.5.5.5/dns-query
 *.ovscdns.net = server:https://223.5.5.5/dns-query
@@ -5610,6 +5683,7 @@
 *.paopaoche.net = server:https://223.5.5.5/dns-query
 *.papegames.cn = server:https://223.5.5.5/dns-query
 *.papegames.com = server:https://223.5.5.5/dns-query
+*.paperang.com = server:https://223.5.5.5/dns-query
 *.papocket.com = server:https://223.5.5.5/dns-query
 *.passport-log.youku.com = server:https://223.5.5.5/dns-query
 *.paydxm.com = server:https://223.5.5.5/dns-query
@@ -5682,6 +5756,7 @@
 *.pipix.com = server:https://223.5.5.5/dns-query
 *.pipixiaha.com = server:https://223.5.5.5/dns-query
 *.pishu.com.cn = server:https://223.5.5.5/dns-query
+*.pixcheese.com = server:https://223.5.5.5/dns-query
 *.pixeldance.com = server:https://223.5.5.5/dns-query
 *.piyao.org.cn = server:https://223.5.5.5/dns-query
 *.piyipiba.com = server:https://223.5.5.5/dns-query
@@ -5759,6 +5834,7 @@
 *.pv.sohu.com = server:https://223.5.5.5/dns-query
 *.pwcinema.com = server:https://223.5.5.5/dns-query
 *.pwesports.cn = server:https://223.5.5.5/dns-query
+*.pwithe.com = server:https://223.5.5.5/dns-query
 *.pwrd.com = server:https://223.5.5.5/dns-query
 *.pwsannong.com = server:https://223.5.5.5/dns-query
 *.py-axa.com = server:https://223.5.5.5/dns-query
@@ -5824,10 +5900,13 @@
 *.qianlima.com = server:https://223.5.5.5/dns-query
 *.qianlong.com = server:https://223.5.5.5/dns-query
 *.qiantucdn.com = server:https://223.5.5.5/dns-query
+*.qianuni.com = server:https://223.5.5.5/dns-query
 *.qianwen.aliyun.com = server:https://223.5.5.5/dns-query
 *.qianwen.com = server:https://223.5.5.5/dns-query
 *.qianxin.com = server:https://223.5.5.5/dns-query
 *.qianxincdn.com = server:https://223.5.5.5/dns-query
+*.qianxuecloud.com = server:https://223.5.5.5/dns-query
+*.qianxueyunke.com = server:https://223.5.5.5/dns-query
 *.qianxun.com = server:https://223.5.5.5/dns-query
 *.qianyierp.com = server:https://223.5.5.5/dns-query
 *.qianzhan.com = server:https://223.5.5.5/dns-query
@@ -5857,6 +5936,7 @@
 *.qingfuwuapi.cn = server:https://223.5.5.5/dns-query
 *.qingfuwucdn.com = server:https://223.5.5.5/dns-query
 *.qingfuwucdn.net = server:https://223.5.5.5/dns-query
+*.qinglue.com = server:https://223.5.5.5/dns-query
 *.qingping.co = server:https://223.5.5.5/dns-query
 *.qingque.cn = server:https://223.5.5.5/dns-query
 *.qingsongchou.com = server:https://223.5.5.5/dns-query
@@ -5886,6 +5966,7 @@
 *.qiyukf.net = server:https://223.5.5.5/dns-query
 *.qiyukf.net.cn = server:https://223.5.5.5/dns-query
 *.qizuang.com = server:https://223.5.5.5/dns-query
+*.qjmotorlink.com = server:https://223.5.5.5/dns-query
 *.ql1d.com = server:https://223.5.5.5/dns-query
 *.qlinkto.cn = server:https://223.5.5.5/dns-query
 *.qlisten.cn = server:https://223.5.5.5/dns-query
@@ -5987,6 +6068,7 @@
 *.realmemobile.com = server:https://223.5.5.5/dns-query
 *.redcross.org.cn = server:https://223.5.5.5/dns-query
 *.redelight.cn = server:https://223.5.5.5/dns-query
+*.redenmc.com = server:https://223.5.5.5/dns-query
 *.redmagic.com = server:https://223.5.5.5/dns-query
 *.rednet.cn = server:https://223.5.5.5/dns-query
 *.reke.at.sohu.com = server:https://223.5.5.5/dns-query
@@ -6025,6 +6107,7 @@
 *.roomeet.cn = server:https://223.5.5.5/dns-query
 *.route53.cn = server:https://223.5.5.5/dns-query
 *.routewize.com = server:https://223.5.5.5/dns-query
+*.royqh.net = server:https://223.5.5.5/dns-query
 *.rpglogs.cn = server:https://223.5.5.5/dns-query
 *.rqnoj.cn = server:https://223.5.5.5/dns-query
 *.rrmj.plus = server:https://223.5.5.5/dns-query
@@ -6086,6 +6169,7 @@
 *.sbeacon.sina.com.cn = server:https://223.5.5.5/dns-query
 *.sbsjk.com = server:https://223.5.5.5/dns-query
 *.sc96655.com = server:https://223.5.5.5/dns-query
+*.scbaijia.com = server:https://223.5.5.5/dns-query
 *.sccreator.cn = server:https://223.5.5.5/dns-query
 *.sccreators.cn = server:https://223.5.5.5/dns-query
 *.scctyiptv.cn = server:https://223.5.5.5/dns-query
@@ -6107,6 +6191,7 @@
 *.scsjb.cn = server:https://223.5.5.5/dns-query
 *.sctv-tf.com = server:https://223.5.5.5/dns-query
 *.sctv.com = server:https://223.5.5.5/dns-query
+*.scyol.com = server:https://223.5.5.5/dns-query
 *.sczsxx.com = server:https://223.5.5.5/dns-query
 *.sda.cn = server:https://223.5.5.5/dns-query
 *.sdgdwljt.com = server:https://223.5.5.5/dns-query
@@ -6204,6 +6289,7 @@
 *.shijiexia.com = server:https://223.5.5.5/dns-query
 *.shimo.im = server:https://223.5.5.5/dns-query
 *.shimonote.com = server:https://223.5.5.5/dns-query
+*.shineacc.com = server:https://223.5.5.5/dns-query
 *.shinescan.tech = server:https://223.5.5.5/dns-query
 *.shipin520.com = server:https://223.5.5.5/dns-query
 *.shixiseng.com = server:https://223.5.5.5/dns-query
@@ -6233,6 +6319,7 @@
 *.shuiyaohuo.com = server:https://223.5.5.5/dns-query
 *.shujupie.com = server:https://223.5.5.5/dns-query
 *.shumensy.com = server:https://223.5.5.5/dns-query
+*.shunjing.xin = server:https://223.5.5.5/dns-query
 *.shuntu.cn = server:https://223.5.5.5/dns-query
 *.shuoshuokong.com = server:https://223.5.5.5/dns-query
 *.shuqi.com = server:https://223.5.5.5/dns-query
@@ -6274,6 +6361,7 @@
 *.sjwyx.com = server:https://223.5.5.5/dns-query
 *.skillhub.cn = server:https://223.5.5.5/dns-query
 *.skimit.net = server:https://223.5.5.5/dns-query
+*.sksight.com = server:https://223.5.5.5/dns-query
 *.skycn.com = server:https://223.5.5.5/dns-query
 *.skydweller.cn = server:https://223.5.5.5/dns-query
 *.skypixel.com = server:https://223.5.5.5/dns-query
@@ -6424,6 +6512,7 @@
 *.steampowered.com.8686c.com = server:https://223.5.5.5/dns-query
 *.steampp.net = server:https://223.5.5.5/dns-query
 *.steamstatic.com.8686c.com = server:https://223.5.5.5/dns-query
+*.stkfanli.com = server:https://223.5.5.5/dns-query
 *.stmicroelectronics.com.cn = server:https://223.5.5.5/dns-query
 *.sto-express.cn = server:https://223.5.5.5/dns-query
 *.sto-express.com = server:https://223.5.5.5/dns-query
@@ -6584,6 +6673,7 @@
 *.tcloudscdn.com = server:https://223.5.5.5/dns-query
 *.tcloudscdn.net = server:https://223.5.5.5/dns-query
 *.tcltech.com = server:https://223.5.5.5/dns-query
+*.tcp5.com = server:https://223.5.5.5/dns-query
 *.tcss.qq.com = server:https://223.5.5.5/dns-query
 *.tcwqqdy.guru = server:https://223.5.5.5/dns-query
 *.tdnsdl1.cn = server:https://223.5.5.5/dns-query
@@ -6742,6 +6832,7 @@
 *.theworld.cn = server:https://223.5.5.5/dns-query
 *.thfund.com.cn = server:https://223.5.5.5/dns-query
 *.thinkcloudlab.com = server:https://223.5.5.5/dns-query
+*.thinkerride.com = server:https://223.5.5.5/dns-query
 *.thinkpad.com = server:https://223.5.5.5/dns-query
 *.thinkprinter.cn = server:https://223.5.5.5/dns-query
 *.thinkprinter.com.cn = server:https://223.5.5.5/dns-query
@@ -6841,6 +6932,7 @@
 *.tongxuepie.com = server:https://223.5.5.5/dns-query
 *.tongyi.aliyun.com = server:https://223.5.5.5/dns-query
 *.tongyi.com = server:https://223.5.5.5/dns-query
+*.tool56.com = server:https://223.5.5.5/dns-query
 *.tools.team = server:https://223.5.5.5/dns-query
 *.toplife.com = server:https://223.5.5.5/dns-query
 *.topnews.cn = server:https://223.5.5.5/dns-query
@@ -6929,6 +7021,7 @@
 *.trustexporter.com = server:https://223.5.5.5/dns-query
 *.trustie.net = server:https://223.5.5.5/dns-query
 *.trustutn.org = server:https://223.5.5.5/dns-query
+*.tshell.online = server:https://223.5.5.5/dns-query
 *.tsinghuaic.com = server:https://223.5.5.5/dns-query
 *.tsingtengms.com = server:https://223.5.5.5/dns-query
 *.tsparkling.com = server:https://223.5.5.5/dns-query
@@ -6947,6 +7040,7 @@
 *.tuicool.com = server:https://223.5.5.5/dns-query
 *.tuiwen.net = server:https://223.5.5.5/dns-query
 *.tujia.com = server:https://223.5.5.5/dns-query
+*.tumukaoyan.com = server:https://223.5.5.5/dns-query
 *.tuniu.com = server:https://223.5.5.5/dns-query
 *.tuniu.net = server:https://223.5.5.5/dns-query
 *.tuniucdn.com = server:https://223.5.5.5/dns-query
@@ -7025,6 +7119,7 @@
 *.uewaf.com = server:https://223.5.5.5/dns-query
 *.ufileos.com = server:https://223.5.5.5/dns-query
 *.ugdtimg.com = server:https://223.5.5.5/dns-query
+*.ugediao.com = server:https://223.5.5.5/dns-query
 *.uggame.com = server:https://223.5.5.5/dns-query
 *.ugnas.cloud = server:https://223.5.5.5/dns-query
 *.ugnas.com = server:https://223.5.5.5/dns-query
@@ -7040,6 +7135,7 @@
 *.uiwow.com = server:https://223.5.5.5/dns-query
 *.ule.com = server:https://223.5.5.5/dns-query
 *.ulecdn.com = server:https://223.5.5.5/dns-query
+*.ulife.group = server:https://223.5.5.5/dns-query
 *.ulikecam.com = server:https://223.5.5.5/dns-query
 *.ulogs.umeng.com = server:https://223.5.5.5/dns-query
 *.ulogs.umengcloud.com = server:https://223.5.5.5/dns-query
@@ -7537,6 +7633,7 @@
 *.wosms.cn = server:https://223.5.5.5/dns-query
 *.wostatic.cn = server:https://223.5.5.5/dns-query
 *.wotgame.cn = server:https://223.5.5.5/dns-query
+*.wowgf.com = server:https://223.5.5.5/dns-query
 *.wowsgame.cn = server:https://223.5.5.5/dns-query
 *.woxihuan.com = server:https://223.5.5.5/dns-query
 *.woyaogexing.com = server:https://223.5.5.5/dns-query
@@ -7600,6 +7697,7 @@
 *.wztsy.cn = server:https://223.5.5.5/dns-query
 *.wztsy.com = server:https://223.5.5.5/dns-query
 *.x-cloud.cc = server:https://223.5.5.5/dns-query
+*.x-gpu.com = server:https://223.5.5.5/dns-query
 *.x-station.cn = server:https://223.5.5.5/dns-query
 *.x315.com = server:https://223.5.5.5/dns-query
 *.x9exk.cn = server:https://223.5.5.5/dns-query
@@ -7647,9 +7745,11 @@
 *.xiangrikuijianzhan.com = server:https://223.5.5.5/dns-query
 *.xiangrikuisite.com = server:https://223.5.5.5/dns-query
 *.xianjiqun.com = server:https://223.5.5.5/dns-query
+*.xiankabao.com = server:https://223.5.5.5/dns-query
 *.xiaoaiassist.com = server:https://223.5.5.5/dns-query
 *.xiaobaixitong.com = server:https://223.5.5.5/dns-query
 *.xiaochuankeji.cn = server:https://223.5.5.5/dns-query
+*.xiaochuanyun.com = server:https://223.5.5.5/dns-query
 *.xiaodutv.com = server:https://223.5.5.5/dns-query
 *.xiaoe-tech.com = server:https://223.5.5.5/dns-query
 *.xiaogouh5.com = server:https://223.5.5.5/dns-query
@@ -7658,8 +7758,10 @@
 *.xiaojukeji.com = server:https://223.5.5.5/dns-query
 *.xiaoka.tv = server:https://223.5.5.5/dns-query
 *.xiaokaxiu.com = server:https://223.5.5.5/dns-query
+*.xiaolianhb.com = server:https://223.5.5.5/dns-query
 *.xiaoluyouxuan.com = server:https://223.5.5.5/dns-query
 *.xiaoluzhidian.com = server:https://223.5.5.5/dns-query
+*.xiaomaicn.com = server:https://223.5.5.5/dns-query
 *.xiaomengai.com = server:https://223.5.5.5/dns-query
 *.xiaomi.cn = server:https://223.5.5.5/dns-query
 *.xiaomi.com = server:https://223.5.5.5/dns-query
@@ -7687,6 +7789,7 @@
 *.xiaomixiaoai.com = server:https://223.5.5.5/dns-query
 *.xiaomiyoupin.com = server:https://223.5.5.5/dns-query
 *.xiaopeng.com = server:https://223.5.5.5/dns-query
+*.xiaoting.com = server:https://223.5.5.5/dns-query
 *.xiaoxiaapi.com = server:https://223.5.5.5/dns-query
 *.xiaoxiongxitong.com = server:https://223.5.5.5/dns-query
 *.xiaoyuankousuan.com = server:https://223.5.5.5/dns-query
@@ -7695,6 +7798,7 @@
 *.xiaoyuzhoufm.com = server:https://223.5.5.5/dns-query
 *.xiayx.com = server:https://223.5.5.5/dns-query
 *.xiazaiba.com = server:https://223.5.5.5/dns-query
+*.xiberia.net = server:https://223.5.5.5/dns-query
 *.xiezuocat.com = server:https://223.5.5.5/dns-query
 *.xiguaapp.cn = server:https://223.5.5.5/dns-query
 *.xiguaapp.com = server:https://223.5.5.5/dns-query
@@ -7761,6 +7865,7 @@
 *.xn0.cc = server:https://223.5.5.5/dns-query
 *.xnfz.seu.edu.cn = server:https://223.5.5.5/dns-query
 *.xnpic.com = server:https://223.5.5.5/dns-query
+*.xopenbeta.com = server:https://223.5.5.5/dns-query
 *.xoyo.com = server:https://223.5.5.5/dns-query
 *.xoyocdn.com = server:https://223.5.5.5/dns-query
 *.xpccdn.com = server:https://223.5.5.5/dns-query
@@ -7796,6 +7901,7 @@
 *.xwbank.com = server:https://223.5.5.5/dns-query
 *.xxcb.cn = server:https://223.5.5.5/dns-query
 *.xxghh.biz = server:https://223.5.5.5/dns-query
+*.xxrsm.com = server:https://223.5.5.5/dns-query
 *.xxsy.net = server:https://223.5.5.5/dns-query
 *.xxsypro.com = server:https://223.5.5.5/dns-query
 *.xxtmail.com = server:https://223.5.5.5/dns-query
@@ -7887,6 +7993,7 @@
 *.yitaifang.com = server:https://223.5.5.5/dns-query
 *.yiwan.com = server:https://223.5.5.5/dns-query
 *.yiwanzhushou.com = server:https://223.5.5.5/dns-query
+*.yixc.com = server:https://223.5.5.5/dns-query
 *.yixi.tv = server:https://223.5.5.5/dns-query
 *.yiyan.baidu.com = server:https://223.5.5.5/dns-query
 *.yiyaojd.com = server:https://223.5.5.5/dns-query
@@ -7917,6 +8024,7 @@
 *.yocajr.com = server:https://223.5.5.5/dns-query
 *.yokaverse.com = server:https://223.5.5.5/dns-query
 *.yoma.cn = server:https://223.5.5.5/dns-query
+*.yooc.me = server:https://223.5.5.5/dns-query
 *.yoojia.com = server:https://223.5.5.5/dns-query
 *.yostar.cn = server:https://223.5.5.5/dns-query
 *.youba.com = server:https://223.5.5.5/dns-query
@@ -8061,6 +8169,7 @@
 *.yystv.cn = server:https://223.5.5.5/dns-query
 *.yytcdn.com = server:https://223.5.5.5/dns-query
 *.yzcdn.cn = server:https://223.5.5.5/dns-query
+*.yzcsoft.com = server:https://223.5.5.5/dns-query
 *.yzsgo.com = server:https://223.5.5.5/dns-query
 *.yzwb.net = server:https://223.5.5.5/dns-query
 *.yzyxgame.com = server:https://223.5.5.5/dns-query
@@ -8070,6 +8179,7 @@
 *.z.cn = server:https://223.5.5.5/dns-query
 *.z.gds.cnzz.com = server:https://223.5.5.5/dns-query
 *.z28j.com = server:https://223.5.5.5/dns-query
+*.z6e.com = server:https://223.5.5.5/dns-query
 *.z95rr.cn = server:https://223.5.5.5/dns-query
 *.zaifan.com = server:https://223.5.5.5/dns-query
 *.zaifan.com.cn = server:https://223.5.5.5/dns-query
@@ -8140,6 +8250,7 @@
 *.zhcw.com = server:https://223.5.5.5/dns-query
 *.zhenai.com = server:https://223.5.5.5/dns-query
 *.zhfund.com = server:https://223.5.5.5/dns-query
+*.zhi10.com = server:https://223.5.5.5/dns-query
 *.zhibo8.cc = server:https://223.5.5.5/dns-query
 *.zhibo8.com = server:https://223.5.5.5/dns-query
 *.zhichanli.com = server:https://223.5.5.5/dns-query
@@ -8160,6 +8271,7 @@
 *.zhipuai.cn = server:https://223.5.5.5/dns-query
 *.zhipucn.com = server:https://223.5.5.5/dns-query
 *.zhisheng.com = server:https://223.5.5.5/dns-query
+*.zhixingyunke.com = server:https://223.5.5.5/dns-query
 *.zhixue.com = server:https://223.5.5.5/dns-query
 *.zhiye.com = server:https://223.5.5.5/dns-query
 *.zhiyuanhe.cn = server:https://223.5.5.5/dns-query
@@ -8167,6 +8279,7 @@
 *.zhizhuma.com = server:https://223.5.5.5/dns-query
 *.zhiziyun.com = server:https://223.5.5.5/dns-query
 *.zhlyen.com = server:https://223.5.5.5/dns-query
+*.zhongancloud.com = server:https://223.5.5.5/dns-query
 *.zhongkao.com = server:https://223.5.5.5/dns-query
 *.zhonshian.cn = server:https://223.5.5.5/dns-query
 *.zhonshian.com = server:https://223.5.5.5/dns-query
@@ -8221,6 +8334,7 @@
 *.zjol.com.cn = server:https://223.5.5.5/dns-query
 *.zjshulong.com = server:https://223.5.5.5/dns-query
 *.zjstv.com = server:https://223.5.5.5/dns-query
+*.zjxhedu.com = server:https://223.5.5.5/dns-query
 *.zjytxd.cn = server:https://223.5.5.5/dns-query
 *.zjytxp.cn = server:https://223.5.5.5/dns-query
 *.zjzs.net = server:https://223.5.5.5/dns-query
@@ -8233,6 +8347,8 @@
 *.zmtqsh.cn = server:https://223.5.5.5/dns-query
 *.zmtqsh.com = server:https://223.5.5.5/dns-query
 *.znds.com = server:https://223.5.5.5/dns-query
+*.znnu.com = server:https://223.5.5.5/dns-query
+*.znztv.com = server:https://223.5.5.5/dns-query
 *.zofund.com = server:https://223.5.5.5/dns-query
 *.zol-img.com.cn = server:https://223.5.5.5/dns-query
 *.zol.com.cn = server:https://223.5.5.5/dns-query
@@ -8290,6 +8406,7 @@
 *.zysn.net = server:https://223.5.5.5/dns-query
 *.zysou.com = server:https://223.5.5.5/dns-query
 *.zz.bdstatic.com = server:https://223.5.5.5/dns-query
+*.zzclass.com = server:https://223.5.5.5/dns-query
 *.zzdtec.com = server:https://223.5.5.5/dns-query
 *.zztfly.com = server:https://223.5.5.5/dns-query
 2mdn-cn.net = server:https://223.5.5.5/dns-query

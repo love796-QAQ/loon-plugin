@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2026-08-05 04:54:52
+#!date = 2026-08-06 04:55:22
 #!system_version = 15
 
 [Host]
@@ -1573,6 +1573,7 @@
 *.cbinews.com = server:https://223.5.5.5/dns-query
 *.cbjq.com = server:https://223.5.5.5/dns-query
 *.cbjs.baidu.com = server:https://223.5.5.5/dns-query
+*.cbn.cn = server:https://223.5.5.5/dns-query
 *.cc-pay.cn = server:https://223.5.5.5/dns-query
 *.ccb-life.com.cn = server:https://223.5.5.5/dns-query
 *.ccb.cn = server:https://223.5.5.5/dns-query
@@ -1914,7 +1915,6 @@
 *.chinazns.com = server:https://223.5.5.5/dns-query
 *.chinesemooc.org = server:https://223.5.5.5/dns-query
 *.chiphell.com = server:https://223.5.5.5/dns-query
-*.chn.cn = server:https://223.5.5.5/dns-query
 *.chndoi.org = server:https://223.5.5.5/dns-query
 *.chnppmuseum.com = server:https://223.5.5.5/dns-query
 *.chntel.com = server:https://223.5.5.5/dns-query
@@ -8983,6 +8983,8 @@ time.amazonaws.cn = server:https://223.5.5.5/dns-query
 time.izatcloud.net = server:https://223.5.5.5/dns-query
 time.xtracloud.net = server:https://223.5.5.5/dns-query
 tj-pod1-smp-device.apple.com = server:https://223.5.5.5/dns-query
+tj-pod2-smp-device.apple.com = server:https://223.5.5.5/dns-query
+tj-pod3-smp-device.apple.com = server:https://223.5.5.5/dns-query
 tlu.dl.delivery.mp.microsoft.com = server:https://223.5.5.5/dns-query
 tools.google.com = server:https://223.5.5.5/dns-query
 tp.louisvuitton.com = server:https://223.5.5.5/dns-query

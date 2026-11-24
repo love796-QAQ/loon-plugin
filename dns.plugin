@@ -5,7 +5,7 @@
 #!icon = https://github.com/BiliUniverse/Enhanced/raw/main/src/assets/icon_rounded.png
 #!tag = 自用
 #!system = iOS,iPadOS,macOS,tvOS
-#!date = 2026-11-23 09:58:49
+#!date = 2026-11-24 11:48:11
 #!system_version = 15
 
 [Host]
@@ -2976,6 +2976,7 @@
 *.eceshi.com = server:https://223.5.5.5/dns-query
 *.ecgapp.com.cn = server:https://223.5.5.5/dns-query
 *.echargenet.com = server:https://223.5.5.5/dns-query
+*.echooai.com = server:https://223.5.5.5/dns-query
 *.ecitic.com = server:https://223.5.5.5/dns-query
 *.ecjobhome.com = server:https://223.5.5.5/dns-query
 *.eckwai.com = server:https://223.5.5.5/dns-query
@@ -3126,8 +3127,10 @@
 *.favonis.cloud = server:https://223.5.5.5/dns-query
 *.favonis.com = server:https://223.5.5.5/dns-query
 *.favonis.space = server:https://223.5.5.5/dns-query
+*.faw-vw.com = server:https://223.5.5.5/dns-query
 *.faw.cn = server:https://223.5.5.5/dns-query
 *.faxingbao.com = server:https://223.5.5.5/dns-query
+*.fazhipro.com = server:https://223.5.5.5/dns-query
 *.fbank.com = server:https://223.5.5.5/dns-query
 *.fbstatic.cn = server:https://223.5.5.5/dns-query
 *.fcapp.run = server:https://223.5.5.5/dns-query
@@ -4120,6 +4123,7 @@
 *.icbcstandardbank.com = server:https://223.5.5.5/dns-query
 *.icbcstandardresources.com = server:https://223.5.5.5/dns-query
 *.icbcstandardsecurities.com = server:https://223.5.5.5/dns-query
+*.icc.link = server:https://223.5.5.5/dns-query
 *.iccvlog.com = server:https://223.5.5.5/dns-query
 *.iceo.com.cn = server:https://223.5.5.5/dns-query
 *.ichangtou.com = server:https://223.5.5.5/dns-query
@@ -6521,6 +6525,7 @@
 *.s.union.360.cn = server:https://223.5.5.5/dns-query
 *.s0n.cn = server:https://223.5.5.5/dns-query
 *.sa.sina.cn = server:https://223.5.5.5/dns-query
+*.saasfz.com = server:https://223.5.5.5/dns-query
 *.saasops.tech = server:https://223.5.5.5/dns-query
 *.saayaa.com = server:https://223.5.5.5/dns-query
 *.saduck.top = server:https://223.5.5.5/dns-query
